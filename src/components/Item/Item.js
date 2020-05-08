@@ -1,5 +1,5 @@
 import React from 'react';
 
-const Item = () => (<span>Todo list items</span>);
+const Item = ({props}) => (<p>{props}</p>);
 
 export default Item;
