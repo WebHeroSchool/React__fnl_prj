@@ -5,7 +5,7 @@ import ItemList from '../ItemList/ItemList';
 const props = {
    firstItem:'Пройти все уроки блока react.',
    secondItem:'Сдать тест по react.',
-   thirdItem:'Сделать финальный проект.',
+   thirdItem:'Сделать финальный проект.'
 };
    
 const App = () => (
