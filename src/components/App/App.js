@@ -2,7 +2,7 @@ import React from 'react';
 import Footer from '../Footer/Footer';
 import ItemList from '../ItemList/ItemList';
 
-const props = () => {
+const App = () => {
    const props = [
       {
          value: 'Пройти все уроки блока react.',
