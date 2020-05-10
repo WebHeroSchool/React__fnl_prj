@@ -3,6 +3,8 @@ import InputItem from '../InputItem/InputItem';
 import Footer from '../Footer/Footer';
 import ItemList from '../ItemList/ItemList';
 
+import './App.css
+
 const App = () => {
    const props = [
       {
