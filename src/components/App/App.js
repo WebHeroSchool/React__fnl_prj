@@ -6,10 +6,10 @@ import ItemList from '../ItemList/ItemList';
 const App = () => {
    const props = [
       {
-         value: 'Пройти все уроки блока react.',
+         value: 'Пройти все уроки блока react.'
       };
       {
-         value: 'Сдать тест по react.',
+         value: 'Сдать тест по react.'
       };
       {
          value: 'Сделать финальный проект.'
