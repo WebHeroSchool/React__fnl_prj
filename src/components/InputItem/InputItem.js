@@ -1,5 +1,5 @@
 import React from 'react';
-import TexField from '@material-ui/core/exField';
+import TexField from '@material-ui/core/TextField';
 
 const InputItem = () => (<p>
     <TexField
