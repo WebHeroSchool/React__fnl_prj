@@ -38,7 +38,7 @@ class App extends React.Component{
             }
             return newItem;
         });
-        this.setState({ item: newItemList });
+        this.setState({ items: newItemList });
     };
 
     render(){
