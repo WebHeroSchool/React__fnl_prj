@@ -17,7 +17,7 @@
     cursor: pointer;
     position: relative;
 }
-.checkbox + label::before{
+.checkbox + label:before{
     position: absolute;
     left: -10px;
     top: 2px;
