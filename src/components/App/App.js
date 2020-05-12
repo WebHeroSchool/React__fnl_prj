@@ -4,7 +4,6 @@ import Footer from "../Footer/Footer";
 import InputItem from "../InputItem/InputItem";
 import styles from './App.module.css';
 
-
 class App extends React.Component{
     render(){
         const props = [
@@ -35,7 +34,6 @@ class App extends React.Component{
             </div>
         );
     }
-
 }
 
 export default App;
