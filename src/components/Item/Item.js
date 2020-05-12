@@ -20,7 +20,7 @@ Item.defaultProps ={
     isDone: false
 };
 
-Item.PropTypes = {
+Item.propTypes = {
     onClickDone: PropTypes.func.isRequired,
     value: PropTypes.string.isRequired
 };
