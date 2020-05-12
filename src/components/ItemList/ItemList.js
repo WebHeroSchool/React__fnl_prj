@@ -20,7 +20,7 @@ const ItemList = ({props, onClickDone, onClickDelete}) => (<ol className={styles
      </li>))}
 </ol>);
 
-ItemList.PropTypes = {
+ItemList.propTypes = {
      onClickDelete: PropTypes.func.isRequired
 };
 
